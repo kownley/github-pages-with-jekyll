@@ -1,3 +1,5 @@
-# Welcome to my blog
+# A real challange is about to happen
 
 I'm glad you are here. I plan to talk about ...
+
+I don't know what I am doing! Here goes nothing ...
